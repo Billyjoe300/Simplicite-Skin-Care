@@ -41,6 +41,15 @@ margin-top: 134px;
 margin-left: -586px;
 position: absolute;
 }
+    
+.Footer-Manu-bar4 {
+ padding: 50px;
+ margin-left: -213px;
+ list-style-type: none;
+ font-family: Latinotype, Trenda ,Bold;
+ font-weight: bold;
+ position: absolute;   
+ }
 
 .grey-box {
 height: 361px;
