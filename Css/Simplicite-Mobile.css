@@ -116,7 +116,9 @@ width: 19px;
 }
 
 .second-footer-manu {
-margin-left: 263px;
+position: absolute;
+margin-top: 561px;
+margin-left: -643px;
 }
 
 .second-footer-manubar {
