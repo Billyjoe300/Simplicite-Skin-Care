@@ -151,8 +151,10 @@ margin-right: -168px;
 }
 
 .Footer-Manu-bar {
-margin-left: 52px;
+margin-left: -663px;
 padding-left: 11px;
+position: absolute;
+margin-top: 426px;
 }
 
 .fruit {
