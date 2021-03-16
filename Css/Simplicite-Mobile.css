@@ -13,6 +13,12 @@ font-size: 13px;
 width: 29%;
 margin-top: -20px;
 }
+    
+.Contact-footer {
+margin-left: 400px;
+margin-top: 21px;
+position: absolute;   
+ } 
 
 .row {
 margin-top: 4px;
