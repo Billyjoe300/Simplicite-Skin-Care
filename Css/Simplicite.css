@@ -20,6 +20,14 @@ font-size: 17px;
 cursor: pointer;
 }
 
+.Footer-Manu-bar4 {
+padding: 50px;
+margin-left: -19px;
+list-style-type: none;
+font-family: Latinotype, Trenda ,Bold;
+font-weight: bold;
+}
+
 .Manu:hover {
 color: pink;
 }
