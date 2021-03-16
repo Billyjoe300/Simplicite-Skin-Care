@@ -171,8 +171,10 @@ height: 170px;
 }
 
 .Rejovenation {
-width: 39%;
-height: 170px;
+float: right;
+margin-bottom: 0px;
+padding: 0px;
+margin-top: -120px;
 }
 
 .Hydra {
