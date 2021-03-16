@@ -26,6 +26,7 @@ margin-left: -229px;
 list-style-type: none;
 font-family: Latinotype, Trenda ,Bold;
 font-weight: bold;
+position: absolute;
 }
 
 .Manu:hover {
